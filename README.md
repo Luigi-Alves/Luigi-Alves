@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Luigi Alves Carvalho e sou Programador Full Stack</p>
+<p align="left">Meu nome é Luigi Alves Carvalho e sou Programador Full-Stack</p>
 
 ###
 
