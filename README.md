@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde ...<br>📚 Atualmente estou me aprendendo aprofundando em Pyhon<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br>🎲 Curiosidade: Gosto de praticar atividades fisicas</p>
+<p align="left">✨ Criando bugs desde ...<br>📚 Atualmente estou me aprendendo aprofundando em Pyhon.<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br>🎲 Curiosidade: Gosto de praticar atividades fisicas.</p>
 
 ###
 
