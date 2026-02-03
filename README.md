@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde <br>📚 Atualmente estou me aprendendo aprofundando em Python.<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br></p>
+<p align="left">✨ Programador Full Stack desde 2025. <br>📚 Atualmente estou me aprendendo aprofundando em Python.<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br></p>
 
 ###
 
