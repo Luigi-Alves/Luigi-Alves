@@ -15,17 +15,8 @@
 
 ###
 
-
-<h2 align="left">Sobre mim</h2>
-
-###
-
-<p align="left">✨ Programador Full Stack desde 2025. <br>📚 Atualmente estou me aprendendo aprofundando em Python.<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br></p>
-
-###
-###
-
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+---
+### <h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
