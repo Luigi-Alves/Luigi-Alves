@@ -1,10 +1,20 @@
-## Olá 👋 Tudo bem?
+## 👩🏻‍💻 Luigi 
+
+**`Desenvolvedora FullStack`**
+
+<p align="left">Me chamo Luigi Alves Carvalho, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IEP. Atualmente, estou cursando Engenharia de Software FIAP.</p>
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/luigi-alves-carvalho-b0048128a/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="luigi.alves.carvalho@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
 
-<p align="left">Meu nome é Luigi Alves Carvalho e sou Programador Full-Stack</p>
-
-###
 
 <h2 align="left">Sobre mim</h2>
 
@@ -13,10 +23,9 @@
 <p align="left">✨ Programador Full Stack desde 2025. <br>📚 Atualmente estou me aprendendo aprofundando em Python.<br>🎯 Objetivos: Busco uma oportunidade no mercado para aplicar minhas habilidades e crescer profissionalmente.<br></p>
 
 ###
-
-<h2 align="left">Eu programo com</h2>
-
 ###
+
+<h2 align="left">🤖 Linguagens e Tecnologias</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
