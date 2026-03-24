@@ -4,6 +4,7 @@
 
 <p align="left">Me chamo Luigi Alves Carvalho, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IEP. Atualmente, estou cursando Engenharia de Software FIAP.</p>
 
+💻 Redes Sociais: 
 <div align="left">
   <a href="https://www.linkedin.com/in/luigi-alves-carvalho-b0048128a/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
