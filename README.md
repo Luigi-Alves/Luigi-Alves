@@ -2,7 +2,7 @@
 
 **`Desenvolvedora FullStack`**
 
-<p align="left">Me chamo Luigi Alves Carvalho, tenho 19 anos e sou natural de São Paulo. Concluí o ensino médio no IEP. Atualmente, estou cursando Engenharia de Software FIAP.</p>
+<p align="left">Me chamo Luigi Alves Carvalho, tenho 20 anos e sou natural de São Paulo. Concluí o ensino médio no IEP. Atualmente, estou cursando Engenharia de Software FIAP.</p>
 
 💻 Redes Sociais: 
 <div align="left">
