@@ -84,7 +84,7 @@ class Luigi:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,flask,postgres,sqlite,git,github,powerbi&perline=6"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,fastapi,flask,postgres,sqlite,git,github,idea,vscode,powerbi&perline=6"/>
 
 </div>
 
@@ -194,7 +194,7 @@ Learning something new every day 🚀
 
 </div>
 
-> ⚠️ Esse widget da snake só funciona se você configurar a GitHub Action correspondente no seu repositório `Luigi-Alves/Luigi-Alves`. Sem isso, a imagem quebra.
+
 
 ---
 
@@ -216,7 +216,7 @@ Learning something new every day 🚀
 
 </div>
 
-> ⚠️ Troquei os links de LinkedIn e Email por placeholders (`#`) — preencha com os seus. Não vou inventar dados de contato seus.
+
 
 ---
 
