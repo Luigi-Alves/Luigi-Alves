@@ -206,11 +206,11 @@ Learning something new every day 🚀
 <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="http://linkedin.com/in/luigi-alves-carvalho-b0048128a/">
 <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="luigi.alves.carvalho@gmail.com">
 <img src="https://img.shields.io/badge/Email-0B3D91?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
