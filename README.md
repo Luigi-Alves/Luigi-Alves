@@ -35,7 +35,7 @@ STATUS: ONLINE 🚀
 ```python
 class Luigi:
 
-    name = "Luigi Alves"
+    name = "Luigi Alves Carvalho"
 
     role = "Software Engineering Student"
 
@@ -256,7 +256,7 @@ Learning something new every day 🚀
 
 ✔ Consolidar backend com Python e Java
 
-✔ Avançar em Data Engineering
+✔ Avançar em Engenharia de Software
 
 ✔ Fortalecer arquitetura de software
 
