@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050505,50:0b3d91,100:1565c0&text=LUIGI%20ALVES&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:333333,100:666666&text=LUIGI%20ALVES&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=4FC3F7&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;BACKEND+%7C+DATA+ENGINEERING;PYTHON+%7C+JAVA+%7C+FASTAPI;AI+INTEGRATION"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=FFFFFF&center=true&vCenter=true&width=900&lines=SYSTEM+BOOTING...;SOFTWARE+ENGINEERING+STUDENT;BACKEND+%7C+DATA+ENGINEERING;PYTHON+%7C+JAVA+%7C+FASTAPI;AI+INTEGRATION"/>
 
 </div>
 
@@ -115,7 +115,7 @@ class Luigi:
 | 🚀 Project | 💡 Description | 🔗 Status |
 |------------|----------------|-----------|
 | 🧠 Career Analyzer | AI-powered resume-to-job comparison tool — FastAPI, OpenAI API, PostgreSQL, React | 🟡 In Progress |
-| ☕ TaskFlow | Task management microservice in Java — Spring Boot, REST APIs, JPA, H2 | 🟡 In Progress |
+| ☕ TaskFlow | Task management microservice in Java — Spring Boot, REST APIs, JPA, PostgreSQL | 🟢 Finished |
 | 🎫 Help Desk System | Ticket management system — Python, Flask, SQLite | 🟢 Finished |
 | 🛗 Otis SaaS (FIAP) | Elevator installation workflow optimization — React | 🟢 Finished |
 
