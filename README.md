@@ -228,9 +228,9 @@ Learning something new every day 🚀
 |-----------|--------------|
 | 💻 Language | Python • Java • JavaScript • SQL |
 | 🚀 Backend | FastAPI • Flask • Spring Boot |
-| 🎨 Frontend | React.js |
+| 🎨 Frontend | HTML • CSS • TypeScript • React.js |
 | 🗄 Database | PostgreSQL • SQLite |
-| 🔧 Tools | Git • GitHub • REST APIs • Power BI |
+| 🔧 Tools | Git • GitHub • REST APIs • Postman |
 
 </div>
 
@@ -268,10 +268,10 @@ Learning something new every day 🚀
 
 <div align="center">
 
-## 💙 "Aprendendo todos os dias. Um commit de cada vez."
+## 🖤 "Aprendendo todos os dias. Um commit de cada vez."
 
 <img src="https://komarev.com/ghpvc/?username=Luigi-Alves&style=for-the-badge&color=1565C0"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:050505,50:0B3D91,100:1565C0"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:000000,50:333333,100:666666"/>
